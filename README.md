@@ -1,7 +1,7 @@
-csci e15 project 1/n
-Introductory html page & workflow set up/n
-Kate de Bethune/n
-September 15, 2014/n
+csci e15 project 1 <br />
+Introductory html page & workflow set up <br />
+Kate de Bethune <br />
+September 15, 2014 <br />
 
 # live URL for project
 http://p1.kdeb-csci-e15.me
