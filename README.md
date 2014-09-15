@@ -1,9 +1,6 @@
 csci e15 project 1
-
-introductory html page & workflow set up
-
+Introductory html page & workflow set up
 Kate de Bethune
-
 September 15, 2014
 
 # live URL for project
@@ -17,7 +14,8 @@ local machine <==> github <==> digitalocean <==> kdebe-csci-e15.me (103.131.19.8
 n/a
 
 # Details for instructor / TA
-n/a
+Please note that I have chosen not to use an image of myself on the public website, per
+this <a href="https://piazza.com/class/hykay018bam4zp?cid=84">Piazza discussion</a>. Thanks! Kate
 
 # Outside Code
 * Bootstrap: <a href="http://getbootstrap.com">http://getbootstrap.com</a>
