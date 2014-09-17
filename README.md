@@ -20,3 +20,4 @@ this <a href="https://piazza.com/class/hykay018bam4zp?cid=84">Piazza discussion<
 # Outside Code
 * Bootstrap: <a href="http://getbootstrap.com">http://getbootstrap.com</a>
 * Shay Howe (for the idea to use Google Fonts): <a href="http://learn.shayhowe.com">http://learn.shayhowe.com</a>
+* Some embedded styles modeled on the <a href="http://p1.dwa15.com">p1 example</a>.
