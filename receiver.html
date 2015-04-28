@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>postMessage Demo: Receiver</title>
+</head>
+<body>
+	<h1>Receiver Window</h1>
+	<p>
+		This document is on the domain: http://demos.matt-west.com
+	</p>
+	<div id="message"></div>
+
+	<script>//<![CDATA[
+window.onload=function(){var messageEle=document.getElementById('message');function receiveMessage(e){if(e.origin!=="http://s.codepen.io")
+return;messageEle.innerHTML="Message Received: "+e.data;}
+window.addEventListener('message',receiveMessage);}
+//]]></script>
+</body>
+</html>
