@@ -1,4 +1,4 @@
-handleResponse({
+{
  "kind": "books#volumes",
  "totalItems": 1003,
  "items": [
@@ -828,4 +828,3 @@ handleResponse({
   }
  ]
 }
-);
