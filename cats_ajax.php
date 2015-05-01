@@ -1,3 +1,8 @@
+<!DOCTYPE>
+<html>
+<head>
+</head>
+<body>
 {
  "kind": "books#volumes",
  "totalItems": 1003,
@@ -828,3 +833,5 @@
   }
  ]
 }
+</body>
+</html>
